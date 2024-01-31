@@ -1,0 +1,22 @@
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: blue;
+    ;
+}
+
+.subtitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(2, 87, 2)
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
