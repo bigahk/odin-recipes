@@ -20,3 +20,30 @@
 .text {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.home-box {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(7, 7, 119);
+    color: white;
+    padding: 8px;
+}
+
+#home-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: blue;
+    margin-bottom: 40px;
+}
+
+.subtitle.home-sub {
+    margin-left: 60px;
+    margin-bottom: 20px;
+    color: Black;
+}
+
+#body{ 
+    background-color: rgb(255, 223, 127);
+}
